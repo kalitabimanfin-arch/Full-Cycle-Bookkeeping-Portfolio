@@ -61,7 +61,7 @@
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](https://raw.githubusercontent.com/kalitabimanfin-arch/Full-Cycle-Bookkeeping-Portfolio/main/06_dashboard/power_bi_dashboard.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/kalitabimanfin-arch/Full-Cycle-Bookkeeping-Portfolio/main/Full-Cycle-Bookkeeping-Portfolio/06%20Dashboard/Bluepeak_dashboard.pbix.png)
 
 ---
 
