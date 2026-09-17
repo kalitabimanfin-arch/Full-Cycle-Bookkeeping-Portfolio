@@ -1,0 +1,43 @@
+Invoice No.,Customer,Invoice Date,Due Date,Item(Product/Service),Item Description,Item Quantity,Item Rate,Item Amount
+INV-1001,Cedar Creek Realty,01/05/26,01/05/26,Consulting,Consulting Revenue,1,921.92,921.92
+INV-1002,Bright Path Academy,01/06/26,01/06/26,Consulting,Consulting Revenue,1,764.52,764.52
+INV-1003,Cedar Creek Realty,01/12/26,01/12/26,Design Services,Design Services Revenue,1,2060.64,2060.64
+INV-1004,Rio Grande Tacos,01/13/26,01/13/26,Design Services,Design Services Revenue,1,1563.66,1563.66
+INV-1005,Lone Star Coffee Co.,01/15/26,01/15/26,Design Services,Design Services Revenue,1,1986.84,1986.84
+INV-1006,Hill Country Winery,01/15/26,01/15/26,Design Services,Design Services Revenue,1,1166.03,1166.03
+INV-1007,Cedar Creek Realty,01/16/26,01/16/26,Design Services,Design Services Revenue,1,1445.88,1445.88
+INV-1008,Lone Star Tech Solutions,01/17/26,01/17/26,Consulting,Consulting Revenue,1,624.83,624.83
+INV-1009,Cedar Creek Realty,01/24/26,01/24/26,Design Services,Design Services Revenue,1,1195.52,1195.52
+INV-1010,Lone Star Coffee Co.,01/25/26,01/25/26,Consulting,Consulting Revenue,1,698.84,698.84
+INV-1011,Cedar Creek Realty,01/25/26,01/25/26,Consulting,Consulting Revenue,1,793.18,793.18
+INV-1012,Texas Trail Outfitters,01/26/26,01/26/26,Design Services,Design Services Revenue,1,2052.0,2052.0
+INV-1013,Rio Grande Tacos,02/05/26,02/05/26,Branding Package,Branding Package Revenue,1,1938.64,1938.64
+INV-1014,Bright Path Academy,02/07/26,02/07/26,Design Services,Design Services Revenue,1,1429.31,1429.31
+INV-1015,Bright Path Academy,02/07/26,02/07/26,Branding Package,Branding Package Revenue,1,2035.48,2035.48
+INV-1016,Lone Star Tech Solutions,02/08/26,02/08/26,Design Services,Design Services Revenue,1,1250.3,1250.3
+INV-1017,Texas Trail Outfitters,02/09/26,02/09/26,Design Services,Design Services Revenue,1,1585.84,1585.84
+INV-1018,Bright Path Academy,02/13/26,02/13/26,Design Services,Design Services Revenue,1,1914.25,1914.25
+INV-1019,Texas Trail Outfitters,02/15/26,02/15/26,Design Services,Design Services Revenue,1,1446.21,1446.21
+INV-1020,Cedar Creek Realty,02/18/26,02/18/26,Consulting,Consulting Revenue,1,1134.98,1134.98
+INV-1021,Hill Country Winery,02/19/26,02/19/26,Consulting,Consulting Revenue,1,1084.59,1084.59
+INV-1022,Hill Country Winery,02/21/26,02/21/26,Consulting,Consulting Revenue,1,1436.65,1436.65
+INV-1023,Texas Trail Outfitters,02/25/26,02/25/26,Consulting,Consulting Revenue,1,824.28,824.28
+INV-1024,Lone Star Coffee Co.,02/26/26,02/26/26,Design Services,Design Services Revenue,1,2197.06,2197.06
+INV-1025,Texas Trail Outfitters,02/28/26,02/28/26,Branding Package,Branding Package Revenue,1,3470.44,3470.44
+INV-1026,Lone Star Tech Solutions,02/28/26,02/28/26,Design Services,Design Services Revenue,1,2084.83,2084.83
+INV-1027,Hill Country Winery,03/01/26,03/01/26,Consulting,Consulting Revenue,1,1360.78,1360.78
+INV-1028,Lone Star Coffee Co.,03/01/26,03/01/26,Consulting,Consulting Revenue,1,824.16,824.16
+INV-1029,Cedar Creek Realty,03/05/26,03/05/26,Consulting,Consulting Revenue,1,1265.83,1265.83
+INV-1030,Texas Trail Outfitters,03/06/26,03/06/26,Design Services,Design Services Revenue,1,1435.65,1435.65
+INV-1031,Hill Country Winery,03/10/26,03/10/26,Consulting,Consulting Revenue,1,840.18,840.18
+INV-1032,Cedar Creek Realty,03/15/26,03/15/26,Branding Package,Branding Package Revenue,1,2263.24,2263.24
+INV-1033,Hill Country Winery,03/17/26,03/17/26,Consulting,Consulting Revenue,1,1261.96,1261.96
+INV-1034,Lone Star Tech Solutions,03/17/26,03/17/26,Consulting,Consulting Revenue,1,665.13,665.13
+INV-1035,Cedar Creek Realty,03/21/26,03/21/26,Consulting,Consulting Revenue,1,798.44,798.44
+INV-1036,Texas Trail Outfitters,03/22/26,03/22/26,Consulting,Consulting Revenue,1,811.72,811.72
+INV-1037,Rio Grande Tacos,03/24/26,03/24/26,Design Services,Design Services Revenue,1,1571.33,1571.33
+INV-1038,Cedar Creek Realty,03/25/26,03/25/26,Consulting,Consulting Revenue,1,1384.79,1384.79
+INV-1039,Rio Grande Tacos,03/25/26,03/25/26,Design Services,Design Services Revenue,1,2379.15,2379.15
+INV-1040,Cedar Creek Realty,03/27/26,03/27/26,Branding Package,Branding Package Revenue,1,3257.44,3257.44
+INV-1041,Cedar Creek Realty,03/27/26,03/27/26,Design Services,Design Services Revenue,1,2044.24,2044.24
+INV-1042,Hill Country Winery,03/29/26,03/29/26,Design Services,Design Services Revenue,1,898.47,898.47

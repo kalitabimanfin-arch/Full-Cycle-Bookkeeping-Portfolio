@@ -1,0 +1,89 @@
+Date,Type,Description,Account,Amount,Category
+02-01-2026,Owner Contribution,Member A capital contribution,Business Checking - Chase,15000,Owner's Capital - Member A
+02-01-2026,Owner Contribution,Member B capital contribution,Business Checking - Chase,15000,Owner's Capital - Member B
+04-01-2026,Expense Bill,Canva Pro subscription,Accounts Payable,-14.99,Software Subscriptions
+05-01-2026,Expense,MacBooks and studio equipment,Business Checking - Chase,-8500,Office Equipment
+05-01-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,921.92,Consulting Revenue
+05-01-2026,Expense Bill,Legal consultation,Accounts Payable,-400,Professional Fees
+06-01-2026,Sales Invoice,Invoice to Bright Path Academy - Consulting Revenue,Accounts Receivable,764.52,Consulting Revenue
+09-01-2026,Expense Bill,Google Ads campaign,Accounts Payable,-350,Marketing & Advertising
+12-01-2026,Sales Invoice,Invoice to Cedar Creek Realty - Design Services Revenue,Accounts Receivable,2060.64,Design Services Revenue
+13-01-2026,Sales Invoice,Invoice to Rio Grande Tacos - Design Services Revenue,Accounts Receivable,1563.66,Design Services Revenue
+14-01-2026,Expense Bill,Studio rent - January,Accounts Payable,-1500,Rent Expense
+15-01-2026,Sales Invoice,Invoice to Lone Star Coffee Co. - Design Services Revenue,Accounts Receivable,1986.84,Design Services Revenue
+15-01-2026,Sales Invoice,Invoice to Hill Country Winery - Design Services Revenue,Accounts Receivable,1166.03,Design Services Revenue
+15-01-2026,Owner Draw,Member A draw - January,Business Checking - Chase,-2000,Owner's Draw - Member A
+15-01-2026,Owner Draw,Member B draw - January,Business Checking - Chase,-2000,Owner's Draw - Member B
+16-01-2026,Sales Invoice,Invoice to Cedar Creek Realty - Design Services Revenue,Accounts Receivable,1445.88,Design Services Revenue
+17-01-2026,Sales Invoice,Invoice to Lone Star Tech Solutions - Consulting Revenue,Accounts Receivable,624.83,Consulting Revenue
+21-01-2026,Expense Bill,Office supplies - Staples,Accounts Payable,-145.2,Office Supplies
+22-01-2026,Expense Bill,Adobe Creative Cloud subscription,Accounts Payable,-59.99,Software Subscriptions
+24-01-2026,Sales Invoice,Invoice to Cedar Creek Realty - Design Services Revenue,Accounts Receivable,1195.52,Design Services Revenue
+24-01-2026,Expense Bill,Figma subscription,Accounts Payable,-15,Software Subscriptions
+25-01-2026,Sales Invoice,Invoice to Lone Star Coffee Co. - Consulting Revenue,Accounts Receivable,698.84,Consulting Revenue
+25-01-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,793.18,Consulting Revenue
+25-01-2026,Expense Bill,Business insurance premium,Accounts Payable,-300,Insurance Expense
+26-01-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Design Services Revenue,Accounts Receivable,2052,Design Services Revenue
+31-01-2026,Payroll,January payroll - part-time employee,Business Checking - Chase,-1800,Salaries & Wages
+31-01-2026,Payroll Tax,Employer payroll taxes - January,Business Checking - Chase,-180,Payroll Taxes
+31-01-2026,Bank Fee,Chase monthly service fee,Business Checking - Chase,-15,Bank Fees
+04-02-2026,Expense Bill,Adobe Creative Cloud subscription,Accounts Payable,-59.99,Software Subscriptions
+05-02-2026,Sales Invoice,Invoice to Rio Grande Tacos - Branding Package Revenue,Accounts Receivable,1938.64,Branding Package Revenue
+05-02-2026,Expense Bill,Studio rent - February,Accounts Payable,-1500,Rent Expense
+06-02-2026,Expense Bill,Facebook Ads campaign,Accounts Payable,-275,Marketing & Advertising
+07-02-2026,Sales Invoice,Invoice to Bright Path Academy - Design Services Revenue,Accounts Receivable,1429.31,Design Services Revenue
+07-02-2026,Sales Invoice,Invoice to Bright Path Academy - Branding Package Revenue,Accounts Receivable,2035.48,Branding Package Revenue
+08-02-2026,Sales Invoice,Invoice to Lone Star Tech Solutions - Design Services Revenue,Accounts Receivable,1250.3,Design Services Revenue
+09-02-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Design Services Revenue,Accounts Receivable,1585.84,Design Services Revenue
+13-02-2026,Sales Invoice,Invoice to Bright Path Academy - Design Services Revenue,Accounts Receivable,1914.25,Design Services Revenue
+14-02-2026,Expense Bill,Print materials - business cards,Accounts Payable,-120,Marketing & Advertising
+15-02-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Design Services Revenue,Accounts Receivable,1446.21,Design Services Revenue
+15-02-2026,Owner Draw,Member A draw - February,Business Checking - Chase,-2000,Owner's Draw - Member A
+15-02-2026,Owner Draw,Member B draw - February,Business Checking - Chase,-2000,Owner's Draw - Member B
+18-02-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,1134.98,Consulting Revenue
+18-02-2026,Refund,Client refund - duplicate billing,Business Checking - Chase,-400,Discounts & Refunds
+19-02-2026,Sales Invoice,Invoice to Hill Country Winery - Consulting Revenue,Accounts Receivable,1084.59,Consulting Revenue
+20-02-2026,Expense Bill,Website hosting - Squarespace,Accounts Payable,-16,Software Subscriptions
+21-02-2026,Sales Invoice,Invoice to Hill Country Winery - Consulting Revenue,Accounts Receivable,1436.65,Consulting Revenue
+21-02-2026,Expense Bill,Client lunch meeting - Rio Grande Tacos,Accounts Payable,-85.5,Marketing & Advertising
+22-02-2026,Expense Bill,Sketch subscription,Accounts Payable,-9,Software Subscriptions
+25-02-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Consulting Revenue,Accounts Receivable,824.28,Consulting Revenue
+26-02-2026,Sales Invoice,Invoice to Lone Star Coffee Co. - Design Services Revenue,Accounts Receivable,2197.06,Design Services Revenue
+26-02-2026,Expense Bill,New office chair - Herman Miller,Accounts Payable,-650,Office Supplies
+28-02-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Branding Package Revenue,Accounts Receivable,3470.44,Branding Package Revenue
+28-02-2026,Sales Invoice,Invoice to Lone Star Tech Solutions - Design Services Revenue,Accounts Receivable,2084.83,Design Services Revenue
+28-02-2026,Payroll,February payroll - part-time employee,Business Checking - Chase,-1800,Salaries & Wages
+28-02-2026,Payroll Tax,Employer payroll taxes - February,Business Checking - Chase,-180,Payroll Taxes
+28-02-2026,Bank Fee,Chase monthly service fee,Business Checking - Chase,-15,Bank Fees
+01-03-2026,Sales Invoice,Invoice to Hill Country Winery - Consulting Revenue,Accounts Receivable,1360.78,Consulting Revenue
+01-03-2026,Sales Invoice,Invoice to Lone Star Coffee Co. - Consulting Revenue,Accounts Receivable,824.16,Consulting Revenue
+04-03-2026,Expense Bill,Webflow annual plan,Accounts Payable,-276,Software Subscriptions
+05-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,1265.83,Consulting Revenue
+05-03-2026,Prepaid Expense,Annual business insurance prepayment,Business Checking - Chase,-3600,Prepaid Insurance
+06-03-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Design Services Revenue,Accounts Receivable,1435.65,Design Services Revenue
+08-03-2026,Expense Bill,Client gifts - holiday packages,Accounts Payable,-180,Marketing & Advertising
+08-03-2026,Expense Bill,AWS hosting renewal,Accounts Payable,-120,Software Subscriptions
+10-03-2026,Sales Invoice,Invoice to Hill Country Winery - Consulting Revenue,Accounts Receivable,840.18,Consulting Revenue
+12-03-2026,Expense Bill,Studio rent - March,Accounts Payable,-1500,Rent Expense
+15-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Branding Package Revenue,Accounts Receivable,2263.24,Branding Package Revenue
+15-03-2026,Expense Bill,Google Ads campaign - Q1 push,Accounts Payable,-500,Marketing & Advertising
+15-03-2026,Expense Bill,New printer - HP,Accounts Payable,-350,Office Supplies
+15-03-2026,Owner Draw,Member A draw - March,Business Checking - Chase,-2000,Owner's Draw - Member A
+15-03-2026,Owner Draw,Member B draw - March,Business Checking - Chase,-2000,Owner's Draw - Member B
+17-03-2026,Sales Invoice,Invoice to Hill Country Winery - Consulting Revenue,Accounts Receivable,1261.96,Consulting Revenue
+17-03-2026,Sales Invoice,Invoice to Lone Star Tech Solutions - Consulting Revenue,Accounts Receivable,665.13,Consulting Revenue
+17-03-2026,Expense Bill,Networking event - Austin Chamber,Accounts Payable,-200,Marketing & Advertising
+21-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,798.44,Consulting Revenue
+21-03-2026,Expense Bill,Adobe Creative Cloud subscription,Accounts Payable,-59.99,Software Subscriptions
+22-03-2026,Sales Invoice,Invoice to Texas Trail Outfitters - Consulting Revenue,Accounts Receivable,811.72,Consulting Revenue
+22-03-2026,Deferred Revenue,Client prepayment for April project - Hill Country Winery,Business Checking - Chase,5000,Deferred Revenue
+24-03-2026,Sales Invoice,Invoice to Rio Grande Tacos - Design Services Revenue,Accounts Receivable,1571.33,Design Services Revenue
+25-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Consulting Revenue,Accounts Receivable,1384.79,Consulting Revenue
+25-03-2026,Sales Invoice,Invoice to Rio Grande Tacos - Design Services Revenue,Accounts Receivable,2379.15,Design Services Revenue
+27-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Branding Package Revenue,Accounts Receivable,3257.44,Branding Package Revenue
+27-03-2026,Sales Invoice,Invoice to Cedar Creek Realty - Design Services Revenue,Accounts Receivable,2044.24,Design Services Revenue
+29-03-2026,Sales Invoice,Invoice to Hill Country Winery - Design Services Revenue,Accounts Receivable,898.47,Design Services Revenue
+29-03-2026,Expense Bill,Quarterly software renewal - Adobe,Accounts Payable,-600,Software Subscriptions
+31-03-2026,Payroll,March payroll - part-time employee,Business Checking - Chase,-1800,Salaries & Wages
+31-03-2026,Payroll Tax,Employer payroll taxes - March,Business Checking - Chase,-180,Payroll Taxes
+31-03-2026,Bank Fee,Chase monthly service fee,Business Checking - Chase,-15,Bank Fees

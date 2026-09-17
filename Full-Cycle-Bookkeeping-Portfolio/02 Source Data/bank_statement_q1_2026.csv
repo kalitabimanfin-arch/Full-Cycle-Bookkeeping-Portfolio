@@ -1,0 +1,26 @@
+Date,Description,Debit,Credit,Balance
+01-01-2026,Opening Balance,,,0
+02-01-2026,Member A capital contribution,,15000,15000
+02-01-2026,Member B capital contribution,,15000,30000
+05-01-2026,MacBooks and studio equipment,8500,,21500
+15-01-2026,Member A draw - January,2000,,19500
+15-01-2026,Member B draw - January,2000,,17500
+31-01-2026,January payroll - part-time employee,1800,,15700
+31-01-2026,Employer payroll taxes - January,180,,15520
+31-01-2026,Chase monthly service fee,15,,15505
+31-01-2026,WIRE TRANSFER FEE - NOT IN QBO,20,,4495
+15-02-2026,Member A draw - February,2000,,13505
+15-02-2026,Member B draw - February,2000,,11505
+18-02-2026,Client refund - duplicate billing,400,,11105
+28-02-2026,February payroll - part-time employee,1800,,9305
+28-02-2026,Employer payroll taxes - February,180,,9125
+28-02-2026,Chase monthly service fee,15,,9110
+05-03-2026,Annual business insurance prepayment,3600,,5510
+15-03-2026,Member A draw - March,2000,,3510
+15-03-2026,Member B draw - March,2000,,1510
+22-03-2026,Client prepayment for April project - Hill Country Winery,,5000,6510
+28-03-2026,OUTSTANDING CHECK #1001 - OFFICE SUPPLIES,250,,4245
+31-03-2026,March payroll - part-time employee,1800,,4710
+31-03-2026,Employer payroll taxes - March,180,,4530
+31-03-2026,Chase monthly service fee,15,,4515
+31-03-2026,INTEREST EARNED - NOT IN QBO,,12.5,4257.5
